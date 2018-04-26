@@ -1,0 +1,52 @@
+ .logotipo{
+       width: 50px;
+       height: auto;
+}
+
+#social{
+  text-align: center;
+  background-color: #87CEEB;
+  padding: 100px 0;
+
+
+}
+.titulo-section{
+  font-size: 32pt;
+  font-weight: bold;
+
+}
+
+#social a{
+  color: #ffffff;
+  font-size: 18pt;
+  padding-right: 5px;
+}
+#social a:hover{
+  color: #0000FF;
+  transition: 1s;
+}
+.esq{
+  background-color: #f39c12;
+}
+.dir{
+  background-color: #c0392b;
+}
+
+#institucional,
+#servicos{
+text-align: left;
+padding: 100px 0;
+}
+.col-esq{
+  background-color: gray;
+  background-color: yellow;
+}
+.col-dir{
+  background-color: black;
+
+}
+#descricao{
+  text-align: center;
+  padding: 150x 0;
+  background-color: #16a085;
+}
